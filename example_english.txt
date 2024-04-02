@@ -1,0 +1,8 @@
+sentence
+Today two poleseman came to the university
+
+word
+poleesemon
+
+input
+In the sentence 'Today two poleseman came to the university', the word 'poleesemon' is a homophone word, can you tell its true meaning?

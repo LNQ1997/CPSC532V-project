@@ -1,0 +1,8 @@
+sentence
+今天有两个井茶来到了学校
+
+word
+井茶
+
+input
+In the sentence '今天有两个井茶来到了学校', the word '井茶' is a homophone word, can you tell its true meaning?
