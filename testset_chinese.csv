@@ -1,21 +1,21 @@
-﻿sentence,word,answer_english,answer_chinese,GPT-3.5,GPT-4
-这是我新买的见磐,见磐,keyboard,键盘,Y,Y
-我早餐吃了面包和机但,机但,egg,鸡蛋,Y,Y
-希望站征早日结束,站征,war,战争,N,Y
-考试期间禁止使用首姬,首姬,cellphone,手机,N,Y
-他经常七负同学,七负,bully,欺负,N,Y
-我要买一个牛肉翰宝,翰宝,hamburger,汉堡,N,Y
-请注意观察宏率登,宏率登,traffic light,红绿灯,N,N
-桌上有一支刚比,刚比,pen,钢笔,N,Y
-我想吃由闸鸡翅,由闸,fried,油炸,N,Y
-锤子标志象征着攻仁,攻仁,worker,工人,N,N
-要求总理磁直的呼声越来越高,磁直,resign,辞职,N,Y
-俄罗斯受到了西方的至才,至才,sanction,制裁,N,Y
-政府对今年的经济预期十分勒关,勒关,optimistic,乐观,N,Y
-在公园中央有一个貂项,貂项,statue,雕像,N,Y
-朝鲜政府改变了对待韩国的正测,正测,policy,政策,N,Y
-议长宣布担任林石总统,林石,temporary,临时,N,N
-美国停止了对高棉共和国的缘柱,缘柱,assistance,援助,N,Y
-数千微信用户呼吁蟑晓聋辞职,蟑晓聋,Zhang Xiaolong,张小龙,N,N
-学生们普遍对笑涨意见很大,笑涨,headmaster,校长,N,N
-这些仕已经过期的食物,仕,is,是,N,Y
+﻿sentence,word,answer_english,answer_chinese,GPT-3.5,GPT-4,Ernie-3.5
+这是我新买的见磐,见磐,keyboard,键盘,Y,Y,Y
+我早餐吃了面包和机但,机但,egg,鸡蛋,Y,Y,Y
+希望站征早日结束,站征,war,战争,N,Y,Y
+考试期间禁止使用首姬,首姬,cellphone,手机,N,Y,Y
+他经常七负同学,七负,bully,欺负,N,Y,Y
+我要买一个牛肉翰宝,翰宝,hamburger,汉堡,N,Y,N
+请注意观察宏律登,宏律登,traffic light,红绿灯,N,N,N
+桌上有一支刚比,刚比,pen,钢笔,N,Y,Y
+我想吃由闸鸡翅,由闸,fried,油炸,N,Y,N
+锤子标志象征着攻仁,攻仁,laborer,工人,N,N,N
+要求总理磁直的呼声越来越高,磁直,resign,辞职,N,Y,Y
+俄罗斯受到了西方的至才,至才,sanction,制裁,N,Y,N
+政府对今年的经济预期十分勒关,勒关,optimistic,乐观,N,Y,Y
+在公园中央有一个貂项,貂项,statue,雕像,N,Y,N
+朝鲜政府改变了对待韩国的正测,正测,policy,政策,N,Y,Y
+议长宣布担任林石总统,林石,temporary,临时,N,N,N
+美国停止了对高棉共和国的缘柱,缘柱,assistance,援助,N,Y,Y
+数千微信用户呼吁蟑晓聋辞职,蟑晓聋,Zhang Xiaolong,张小龙,N,N,Y
+学生们普遍对笑涨意见很大,笑涨,headmaster,校长,N,N,N
+这些仕已经过期的食物,仕,is,是,N,Y,N

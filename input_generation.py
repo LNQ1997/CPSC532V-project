@@ -10,7 +10,7 @@ for row_num in range(len(df)):
     word=df.iloc[row_num]['word']
     input='In the sentence \'{0}\', the word \'{1}\' is a homophone word, can you tell its true meaning?'.format(sentence,word)
     print()
-    print(row_num)
+    print(row_num+2)
     print(input)
     if filename=='testset_chinese.csv':
         print('answer:',df.iloc[row_num]['answer_english'])

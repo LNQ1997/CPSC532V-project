@@ -1,21 +1,21 @@
-﻿sentence,word,answer,GPT-3.5,GPT-4
-The drywer is drunk,drywer,driver,Y,Y
-Next Monday is a nation howllydey,howllydey,holiday,Y,Y
-The san is so shiny today,san,sun,Y,Y
-I want a marshrum burger,marshrum,mushroom,N,Y
-Intruders have destroyed the housepitle,housepitle,hospital,N,Y
-Cat is one kind of maimol,maimol,mammal,N,Y
-This topic is trending on sowshow media,sowshow,social,Y,Y
-Refugees seek shallter at school,shallter,shelter,Y,Y
-There's no sign of brickthrow for ceasefire talk,brickthrow,breakthrough,Y,N
-He filled in a sirway about the protest,sirway,survey,Y,Y
-The tryel is expected to last for 6 month,tryel,trial,Y,Y
-He worries about possible whalelense in the street,whalelense,violence,N,Y
-Two passengers are injured in the bus crash aksident,aksident,accident,Y,Y
-An eight year old girl is the sole serwaiwor,serwaiwor,survivor,N,Y
-South Africa is one of the most diwylloped country in Africa,diwylloped,developed,N,Y
-The driver lost kentroll of the car,kentroll,control,Y,Y
-The boat caught fire after inpackt on a rock,inpackt,impact,Y,Y
-She has furtell imagination,furtell,fertile,Y,Y
-Flood has caused synnyfikent damage to this area,synnyfikent,significant,Y,Y
-Xia is the first dinicety of China,dinicety,dynasty,N,Y
+﻿sentence,word,answer,GPT-3.5,GPT-4,Ernie-3.5
+The drywer is drunk,drywer,driver,Y,Y,Y
+Next Monday is a nation howllydey,howllydey,holiday,Y,Y,Y
+The san is so shiny today,san,sun,Y,Y,N
+I want a marshrum burger,marshrum,mushroom,N,Y,Y
+Intruders have destroyed the housepitle,housepitle,hospital,N,Y,N
+Cat is one kind of maimol,maimol,mammal,N,Y,Y
+This topic is trending on sowshow media,sowshow,social,Y,Y,N
+Refugees seek shallter at school,shallter,shelter,Y,Y,Y
+There's no sign of brickthrow for ceasefire talk,brickthrow,breakthrough,Y,N,N
+He filled in a sirway about the protest,sirway,survey,Y,Y,Y
+The tryel is expected to last for 6 month,tryel,trial,Y,Y,Y
+He worries about possible whalelense in the street,whalelense,violence,N,Y,N
+Two passengers are injured in the bus crash aksident,aksident,accident,Y,Y,Y
+An eight year old girl is the sole serwaiwor,serwaiwor,survivor,N,Y,N
+South Africa is one of the most diwylloped country in Africa,diwylloped,developed,N,Y,Y
+The driver lost kentroll of the car,kentroll,control,Y,Y,Y
+The boat caught fire after inpackt on a rock,inpackt,impact,Y,Y,Y
+She has furtell imagination,furtell,fertile,Y,Y,N
+Flood has caused synnyfikent damage to this area,synnyfikent,significant,Y,Y,Y
+Xia is the first dinicety of China,dinicety,dynasty,N,Y,Y
