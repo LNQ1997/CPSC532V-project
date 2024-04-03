@@ -1,13 +1,21 @@
-﻿sentence,word,answer
-The drywer is drunk,drywer,driver
-Next Monday is a nation howllydey,howllydey,holiday
-The san is so shiny today,san,sun
-I want a marshrum burger,marshrum,mushroom
-Intruders have destroyed the housepitle,housepitle,hospital
-Cat is one kind of mimol,maimol,mammal
-This topic is trending on soshow media,soshow,social
-Refugees seek shallter at school,shallter,shelter
-There's no sign of brickthrow for ceasefire talk,brickthrow,breakthrough
-He filled in a sirway about the protest.,sirway,survey
-The tryel is expected to last for 6 month,tryel,trial
-He worries about possible whalelense in the street,whalelense,violence
+﻿sentence,word,answer,GPT-3.5,GPT-4
+The drywer is drunk,drywer,driver,Y,Y
+Next Monday is a nation howllydey,howllydey,holiday,Y,Y
+The san is so shiny today,san,sun,Y,Y
+I want a marshrum burger,marshrum,mushroom,N,Y
+Intruders have destroyed the housepitle,housepitle,hospital,N,Y
+Cat is one kind of maimol,maimol,mammal,N,Y
+This topic is trending on sowshow media,sowshow,social,Y,Y
+Refugees seek shallter at school,shallter,shelter,Y,Y
+There's no sign of brickthrow for ceasefire talk,brickthrow,breakthrough,Y,N
+He filled in a sirway about the protest,sirway,survey,Y,Y
+The tryel is expected to last for 6 month,tryel,trial,Y,Y
+He worries about possible whalelense in the street,whalelense,violence,N,Y
+Two passengers are injured in the bus crash aksident,aksident,accident,Y,Y
+An eight year old girl is the sole serwaiwor,serwaiwor,survivor,N,Y
+South Africa is one of the most diwylloped country in Africa,diwylloped,developed,N,Y
+The driver lost kentroll of the car,kentroll,control,Y,Y
+The boat caught fire after inpackt on a rock,inpackt,impact,Y,Y
+She has furtell imagination,furtell,fertile,Y,Y
+Flood has caused synnyfikent damage to this area,synnyfikent,significant,Y,Y
+Xia is the first dinicety of China,dinicety,dynasty,N,Y
