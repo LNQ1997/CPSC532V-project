@@ -1,7 +1,8 @@
 import pandas as pd
 
-#filename='testset_chinese.csv'
-filename='testset_english.csv'
+filename='testset_chinese.csv'
+#filename='testset_english.csv'
+#filename='testset_espanol.csv'
 
 df=pd.read_csv(filename)
 
@@ -15,6 +16,6 @@ for row_num in range(len(df)):
     if filename=='testset_chinese.csv':
         print('answer:',df.iloc[row_num]['answer_english'])
         print('answer:',df.iloc[row_num]['answer_chinese'])
-    elif filename=='testset_english.csv':
+    else:
         print('answer:',df.iloc[row_num]['answer'])
     print()
