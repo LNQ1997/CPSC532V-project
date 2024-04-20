@@ -16,6 +16,9 @@ for row_num in range(len(df)):
     if filename=='testset_chinese.csv':
         print('answer:',df.iloc[row_num]['answer_english'])
         print('answer:',df.iloc[row_num]['answer_chinese'])
-    else:
+    elif filename=='testset_english.csv':
         print('answer:',df.iloc[row_num]['answer'])
+    elif filename=='testset_espanol.csv':
+        print('answer:',df.iloc[row_num]['answer_english'])
+        print('answer:',df.iloc[row_num]['answer_spanish'])
     print()
